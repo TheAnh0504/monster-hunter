@@ -1,0 +1,3 @@
+/Assets/Env/env7/DETAILED_MedievalMarkets/DETAILED_Medieval/Materials/Medieval_GroundCoverStone_NRM_4k.tif filter=lfs diff=lfs merge=lfs -text
+/Assets/Env/env7/DETAILED_Halloween/Materials/MDungeons_TombStones_Low_NORMAL.tif filter=lfs diff=lfs merge=lfs -text
+/Assets/Env/env1/Textures/pumpkinS.tga filter=lfs diff=lfs merge=lfs -text
